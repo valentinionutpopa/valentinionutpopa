@@ -1,4 +1,3 @@
-Apasa pe butonul verde "Edit README". Sterge tot ce e acolo ("Hi there 👋") si pune exact urmatorul text:
 ## Hi, I'm Valentin 👋
 
 **Senior PHP/MySQL Developer** with 14+ years of hands-on experience building web platforms from scratch.
